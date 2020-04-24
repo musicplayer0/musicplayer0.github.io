@@ -26,91 +26,91 @@ $(function()
 		artist: "Fred Eddy",
 		name: "Vietnam",
 		url: "Musics/Vietnam-FredEddy.mp3",
-		picture: "https://raw.githubusercontent.com/musicplayer10/musicplayer/master/img/2.png"
+		picture: "https://raw.githubusercontent.com/musicplayer0/images/master/img/2.png"
 	},
 	{
 		artist: "Orange_Khoi",
 		name: "Chân Ái",
 		url: "Musics/ChanAi-Orange_Khoi.m4a",
-		picture: "https://raw.githubusercontent.com/musicplayer10/musicplayer/master/img/2.png"
+		picture: "https://raw.githubusercontent.com/musicplayer0/images/master/img/2.png"
 	},
 	{
 		artist: "Mr Siro",
 		name: "Cô Đơn Không Muốn Về Nhà",
 		url: "Musics/CoDonKhongMuonVeNha-Mr_Siro.m4a",
-		picture: "https://raw.githubusercontent.com/musicplayer10/musicplayer/master/img/2.png"	
+		picture: "https://raw.githubusercontent.com/musicplayer0/images/master/img/2.png"	
 	},
 	{
 		artist: "Emilia",
 		name: "Big Big World",
 		url: "Musics/Big Big World - Emilia.m4a",
-		picture: "https://raw.githubusercontent.com/musicplayer10/musicplayer/master/img/2.png"	
+		picture: "https://raw.githubusercontent.com/musicplayer0/images/master/img/2.png"	
 	},
 	{
 		artist: "Trish Thùy Trang",
 		name: "Big Big World",
 		url: "Musics/Big Big World - Trish Thuy Trang.m4a",
-		picture: "https://raw.githubusercontent.com/musicplayer10/musicplayer/master/img/2.png"	
+		picture: "https://raw.githubusercontent.com/musicplayer0/images/master/img/2.png"	
 	},
 	{
 		artist: "Văn Mai Hương",
 		name: "Cầu Hôn",
 		url: "Musics/Cau Hon - Van Mai Huong.m4a",
-		picture: "https://raw.githubusercontent.com/musicplayer10/musicplayer/master/img/2.png"	
+		picture: "https://raw.githubusercontent.com/musicplayer0/images/master/img/2.png"	
 	},
 	{
 		artist: "Doãn Hiếu",
 		name: "Em Chỉ Cần Nói Có",
 		url: "Musics/Em Chi Can Noi Co - Doan Hieu.m4a",
-		picture: "https://raw.githubusercontent.com/musicplayer10/musicplayer/master/img/2.png"	
+		picture: "https://raw.githubusercontent.com/musicplayer0/images/master/img/2.png"	
 	},
 	{
 		artist: "Bùi Anh Tuấn",
 		name: "Hẹn Một Mai",
 		url: "Musics/Hen Mot Mai - Bui Anh Tuan.m4a",
-		picture: "https://raw.githubusercontent.com/musicplayer10/musicplayer/master/img/2.png"	
+		picture: "https://raw.githubusercontent.com/musicplayer0/images/master/img/2.png"	
 	},
 	{
 		artist: "Harry Lu",
 		name: "Hẹn Một Mai",
 		url: "Musics/Hen Mot Mai - Harry Lu.m4a",
-		picture: "https://raw.githubusercontent.com/musicplayer10/musicplayer/master/img/2.png"	
+		picture: "https://raw.githubusercontent.com/musicplayer0/images/master/img/2.png"	
 	},
 	{
 		artist: "Hoàng Yến_TiNO_KOP",
 		name: "Ngưng Làm Bạn",
 		url: "Musics/Ngung Lam Ban - Hoang Yen_ TiNO_ KOP.mp3",
-		picture: "https://raw.githubusercontent.com/musicplayer10/musicplayer/master/img/2.png"	
+		picture: "https://raw.githubusercontent.com/musicplayer0/images/master/img/2.png"	
 	},
 	{
 		artist: "Lê Hiếu",
 		name: "Phố Không Em",
 		url: "Musics/Pho Khong Em - Le Hieu.m4a",
-		picture: "https://raw.githubusercontent.com/musicplayer10/musicplayer/master/img/2.png"	
+		picture: "https://raw.githubusercontent.com/musicplayer0/images/master/img/2.png"	
 	},
 	{
 		artist: "Thai Dinh",
 		name: "Phố Không Em",
 		url: "Musics/Pho Khong Em - Thai Dinh.mp3",
-		picture: "https://raw.githubusercontent.com/musicplayer10/musicplayer/master/img/2.png"	
+		picture: "https://raw.githubusercontent.com/musicplayer0/images/master/img/2.png"	
 	},
 	{
 		artist: " Timeflies_Katie Sky",
 		name: "Monsters",
 		url: "Musics/Monsters - Timeflies_ Katie Sky.m4a",
-		picture: "https://raw.githubusercontent.com/musicplayer10/musicplayer/master/img/2.png"	
+		picture: "https://raw.githubusercontent.com/musicplayer0/images/master/img/2.png"	
 	},
 	{
 		artist: "Offenbach",
 		name: "Can Can",
 		url: "Musics/Can Can.m4a",
-		picture: "https://raw.githubusercontent.com/musicplayer10/musicplayer/master/img/2.png"	
+		picture: "https://raw.githubusercontent.com/musicplayer0/images/master/img/2.png"	
 	},
 	{
 		artist: "Dua Lipa",
 		name: "Break My Heart",
 		url: "Musics/Break My Heart - Dua Lipa.m4a",
-		picture: "https://raw.githubusercontent.com/musicplayer10/musicplayer/master/img/2.png"	
+		picture: "https://raw.githubusercontent.com/musicplayer0/images/master/img/2.png"	
 	},
 	];
 	function shuffle(a) {
