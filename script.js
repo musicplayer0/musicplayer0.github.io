@@ -107,9 +107,99 @@ $(function()
 		picture: "https://raw.githubusercontent.com/musicplayer0/images/master/img/2.png"	
 	},
 	{
-		artist: "Dua Lipa",
-		name: "Break My Heart",
-		url: "Musics/Break My Heart - Dua Lipa.m4a",
+		artist: "Alan Walker",
+		name: "Faded",
+		url: "Musics/Faded - Alan Walker.m4a",
+		picture: "https://raw.githubusercontent.com/musicplayer0/images/master/img/2.png"	
+	},
+	{
+		artist: "Alan Walker",
+		name: "Alone",
+		url: "Musics/Alone - Alan Walker.m4a",
+		picture: "https://raw.githubusercontent.com/musicplayer0/images/master/img/2.png"	
+	},
+	{
+		artist: "Alan Walker",
+		name: "Spectre",
+		url: "Musics/Spectre - Alan Walker.m4a",
+		picture: "https://raw.githubusercontent.com/musicplayer0/images/master/img/2.png"	
+	},
+	{
+		artist: "Alan Walker",
+		name: "Sing Me To Sleep",
+		url: "Musics/Sing Me To Sleep - Alan Walker.m4a",
+		picture: "https://raw.githubusercontent.com/musicplayer0/images/master/img/2.png"	
+	},
+	{
+		artist: "Alan Walker_Noah Cyrus",
+		name: "All Falls Down",
+		url: "Musics/All Falls Down - Alan Walker_ Noah Cyrus.m4a",
+		picture: "https://raw.githubusercontent.com/musicplayer0/images/master/img/2.png"	
+	},
+	{
+		artist: "Alan Walker",
+		name: "Darkside",
+		url: "Musics/Darkside - Alan Walker.m4a",
+		picture: "https://raw.githubusercontent.com/musicplayer0/images/master/img/2.png"	
+	},
+	{
+		artist: "Alan Walker",
+		name: "Different World",
+		url: "Musics/Different World - Alan Walker.m4a",
+		picture: "https://raw.githubusercontent.com/musicplayer0/images/master/img/2.png"	
+	},
+	{
+		artist: "Alan Walker_Sabrina Carpent",
+		name: "On My Way",
+		url: "Musics/On My Way - Alan Walker_ Sabrina Carpent.m4a",
+		picture: "https://raw.githubusercontent.com/musicplayer0/images/master/img/2.png"	
+	},
+	{
+		artist: "Alan Walker_K-391_Emelie Hollow",
+		name: "Lily",
+		url: "Musics/Lily - Alan Walker_ K-391_ Emelie Hollow.m4a",
+		picture: "https://raw.githubusercontent.com/musicplayer0/images/master/img/2.png"	
+	},
+	{
+		artist: "Alan Walker_K-391_Julie Berga",
+		name: "Ignite",
+		url: "Musics/Ignite - K-391_ Alan Walker_ Julie Berga.m4a",
+		picture: "https://raw.githubusercontent.com/musicplayer0/images/master/img/2.png"	
+	},
+	{
+		artist: "The Fat Rat",
+		name: "Fly Away",
+		url: "Musics/Fly Away - TheFatRat_ Anjulie.m4a",
+		picture: "https://raw.githubusercontent.com/musicplayer0/images/master/img/2.png"	
+	},
+	{
+		artist: "The Fat Rat",
+		name: "Unity",
+		url: "Musics/Unity - TheFatRat.m4a",
+		picture: "https://raw.githubusercontent.com/musicplayer0/images/master/img/2.png"	
+	},
+	{
+		artist: "The Fat Rat",
+		name: "Never Be Alone",
+		url: "Musics/Never Be Alone - TheFatRat.m4a",
+		picture: "https://raw.githubusercontent.com/musicplayer0/images/master/img/2.png"	
+	},
+	{
+		artist: "The Fat Rat",
+		name: "Time Lapse",
+		url: "Musics/Time Lapse - TheFatRat.m4a",
+		picture: "https://raw.githubusercontent.com/musicplayer0/images/master/img/2.png"	
+	},
+	{
+		artist: "The Fat Rat",
+		name: "The Calling",
+		url: "Musics/The Calling - TheFatRat_ Laura Brehm.m4a",
+		picture: "https://raw.githubusercontent.com/musicplayer0/images/master/img/2.png"	
+	},
+	{
+		artist: "The Fat Rat",
+		name: "Monody",
+		url: "Musics/Monody - TheFatRat_ Laura Brehm.m4a",
 		picture: "https://raw.githubusercontent.com/musicplayer0/images/master/img/2.png"	
 	},
 	];
@@ -123,7 +213,7 @@ $(function()
 		}
 		return a;
 	}
-	 songs = shuffle(songs);
+	 //songs = shuffle(songs);
 
     function playPause()
     {
