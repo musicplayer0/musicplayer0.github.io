@@ -47,12 +47,6 @@ $(function()
 		picture: "https://raw.githubusercontent.com/musicplayer0/images/master/img/2.png"	
 	},
 	{
-		artist: "Trish Thùy Trang",
-		name: "Big Big World",
-		url: "Musics/Big Big World - Trish Thuy Trang.m4a",
-		picture: "https://raw.githubusercontent.com/musicplayer0/images/master/img/2.png"	
-	},
-	{
 		artist: "Văn Mai Hương",
 		name: "Cầu Hôn",
 		url: "Musics/Cau Hon - Van Mai Huong.m4a",
@@ -143,12 +137,6 @@ $(function()
 		picture: "https://raw.githubusercontent.com/musicplayer0/images/master/img/2.png"	
 	},
 	{
-		artist: "Alan Walker",
-		name: "Different World",
-		url: "Musics/Different World - Alan Walker.m4a",
-		picture: "https://raw.githubusercontent.com/musicplayer0/images/master/img/2.png"	
-	},
-	{
 		artist: "Alan Walker_Sabrina Carpent",
 		name: "On My Way",
 		url: "Musics/On My Way - Alan Walker_ Sabrina Carpent.m4a",
@@ -158,12 +146,6 @@ $(function()
 		artist: "Alan Walker_K-391_Emelie Hollow",
 		name: "Lily",
 		url: "Musics/Lily - Alan Walker_ K-391_ Emelie Hollow.m4a",
-		picture: "https://raw.githubusercontent.com/musicplayer0/images/master/img/2.png"	
-	},
-	{
-		artist: "Alan Walker_K-391_Julie Berga",
-		name: "Ignite",
-		url: "Musics/Ignite - K-391_ Alan Walker_ Julie Berga.m4a",
 		picture: "https://raw.githubusercontent.com/musicplayer0/images/master/img/2.png"	
 	},
 	{
