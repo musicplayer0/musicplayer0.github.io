@@ -26,163 +26,163 @@ $(function()
 		artist: "Fred Eddy",
 		name: "Vietnam",
 		url: "Musics/Vietnam-FredEddy.mp3",
-		picture: "https://raw.githubusercontent.com/musicplayer0/images/master/img/2.png"
+		picture: "https://source.unsplash.com/random/1191*1191/?landscape"
 	},
 	{
 		artist: "Orange_Khoi",
 		name: "Chân Ái",
 		url: "Musics/ChanAi-Orange_Khoi.m4a",
-		picture: "https://raw.githubusercontent.com/musicplayer0/images/master/img/2.png"
+		picture: "https://source.unsplash.com/random/1191*1191/?landscape"
 	},
 	{
 		artist: "Mr Siro",
 		name: "Cô Đơn Không Muốn Về Nhà",
 		url: "Musics/CoDonKhongMuonVeNha-Mr_Siro.m4a",
-		picture: "https://raw.githubusercontent.com/musicplayer0/images/master/img/2.png"	
+		picture: "https://source.unsplash.com/random/1191*1191/?landscape"	
 	},
 	{
 		artist: "Emilia",
 		name: "Big Big World",
 		url: "Musics/Big Big World - Emilia.m4a",
-		picture: "https://raw.githubusercontent.com/musicplayer0/images/master/img/2.png"	
+		picture: "https://source.unsplash.com/random/1191*1191/?landscape"	
 	},
 	{
 		artist: "Văn Mai Hương",
 		name: "Cầu Hôn",
 		url: "Musics/Cau Hon - Van Mai Huong.m4a",
-		picture: "https://raw.githubusercontent.com/musicplayer0/images/master/img/2.png"	
+		picture: "https://source.unsplash.com/random/1191*1191/?landscape"	
 	},
 	{
 		artist: "Doãn Hiếu",
 		name: "Em Chỉ Cần Nói Có",
 		url: "Musics/Em Chi Can Noi Co - Doan Hieu.m4a",
-		picture: "https://raw.githubusercontent.com/musicplayer0/images/master/img/2.png"	
+		picture: "https://source.unsplash.com/random/1191*1191/?landscape"	
 	},
 	{
 		artist: "Bùi Anh Tuấn",
 		name: "Hẹn Một Mai",
 		url: "Musics/Hen Mot Mai - Bui Anh Tuan.m4a",
-		picture: "https://raw.githubusercontent.com/musicplayer0/images/master/img/2.png"	
+		picture: "https://source.unsplash.com/random/1191*1191/?landscape"	
 	},
 	{
 		artist: "Harry Lu",
 		name: "Hẹn Một Mai",
 		url: "Musics/Hen Mot Mai - Harry Lu.m4a",
-		picture: "https://raw.githubusercontent.com/musicplayer0/images/master/img/2.png"	
+		picture: "https://source.unsplash.com/random/1191*1191/?landscape"	
 	},
 	{
 		artist: "Hoàng Yến_TiNO_KOP",
 		name: "Ngưng Làm Bạn",
 		url: "Musics/Ngung Lam Ban - Hoang Yen_ TiNO_ KOP.mp3",
-		picture: "https://raw.githubusercontent.com/musicplayer0/images/master/img/2.png"	
+		picture: "https://source.unsplash.com/random/1191*1191/?landscape"	
 	},
 	{
 		artist: "Lê Hiếu",
 		name: "Phố Không Em",
 		url: "Musics/Pho Khong Em - Le Hieu.m4a",
-		picture: "https://raw.githubusercontent.com/musicplayer0/images/master/img/2.png"	
+		picture: "https://source.unsplash.com/random/1191*1191/?landscape"	
 	},
 	{
 		artist: "Thai Dinh",
 		name: "Phố Không Em",
 		url: "Musics/Pho Khong Em - Thai Dinh.mp3",
-		picture: "https://raw.githubusercontent.com/musicplayer0/images/master/img/2.png"	
+		picture: "https://source.unsplash.com/random/1191*1191/?landscape"	
 	},
 	{
 		artist: " Timeflies_Katie Sky",
 		name: "Monsters",
 		url: "Musics/Monsters - Timeflies_ Katie Sky.m4a",
-		picture: "https://raw.githubusercontent.com/musicplayer0/images/master/img/2.png"	
+		picture: "https://source.unsplash.com/random/1191*1191/?landscape"	
 	},
 	{
 		artist: "Offenbach",
 		name: "Can Can",
 		url: "Musics/Can Can.m4a",
-		picture: "https://raw.githubusercontent.com/musicplayer0/images/master/img/2.png"	
+		picture: "https://source.unsplash.com/random/1191*1191/?landscape"	
 	},
 	{
 		artist: "Alan Walker",
 		name: "Faded",
 		url: "Musics/Faded - Alan Walker.m4a",
-		picture: "https://raw.githubusercontent.com/musicplayer0/images/master/img/2.png"	
+		picture: "https://source.unsplash.com/random/1191*1191/?landscape"	
 	},
 	{
 		artist: "Alan Walker",
 		name: "Alone",
 		url: "Musics/Alone - Alan Walker.m4a",
-		picture: "https://raw.githubusercontent.com/musicplayer0/images/master/img/2.png"	
+		picture: "https://source.unsplash.com/random/1191*1191/?landscape"	
 	},
 	{
 		artist: "Alan Walker",
 		name: "Spectre",
 		url: "Musics/Spectre - Alan Walker.m4a",
-		picture: "https://raw.githubusercontent.com/musicplayer0/images/master/img/2.png"	
+		picture: "https://source.unsplash.com/random/1191*1191/?landscape"	
 	},
 	{
 		artist: "Alan Walker",
 		name: "Sing Me To Sleep",
 		url: "Musics/Sing Me To Sleep - Alan Walker.m4a",
-		picture: "https://raw.githubusercontent.com/musicplayer0/images/master/img/2.png"	
+		picture: "https://source.unsplash.com/random/1191*1191/?landscape"	
 	},
 	{
 		artist: "Alan Walker_Noah Cyrus",
 		name: "All Falls Down",
 		url: "Musics/All Falls Down - Alan Walker_ Noah Cyrus.m4a",
-		picture: "https://raw.githubusercontent.com/musicplayer0/images/master/img/2.png"	
+		picture: "https://source.unsplash.com/random/1191*1191/?landscape"	
 	},
 	{
 		artist: "Alan Walker",
 		name: "Darkside",
 		url: "Musics/Darkside - Alan Walker.m4a",
-		picture: "https://raw.githubusercontent.com/musicplayer0/images/master/img/2.png"	
+		picture: "https://source.unsplash.com/random/1191*1191/?landscape"	
 	},
 	{
 		artist: "Alan Walker_Sabrina Carpent",
 		name: "On My Way",
 		url: "Musics/On My Way - Alan Walker_ Sabrina Carpent.m4a",
-		picture: "https://raw.githubusercontent.com/musicplayer0/images/master/img/2.png"	
+		picture: "https://source.unsplash.com/random/1191*1191/?landscape"	
 	},
 	{
 		artist: "Alan Walker_K-391_Emelie Hollow",
 		name: "Lily",
 		url: "Musics/Lily - Alan Walker_ K-391_ Emelie Hollow.m4a",
-		picture: "https://raw.githubusercontent.com/musicplayer0/images/master/img/2.png"	
+		picture: "https://source.unsplash.com/random/1191*1191/?landscape"	
 	},
 	{
 		artist: "The Fat Rat",
 		name: "Fly Away",
 		url: "Musics/Fly Away - TheFatRat_ Anjulie.m4a",
-		picture: "https://raw.githubusercontent.com/musicplayer0/images/master/img/2.png"	
+		picture: "https://source.unsplash.com/random/1191*1191/?landscape"	
 	},
 	{
 		artist: "The Fat Rat",
 		name: "Unity",
 		url: "Musics/Unity - TheFatRat.m4a",
-		picture: "https://raw.githubusercontent.com/musicplayer0/images/master/img/2.png"	
+		picture: "https://source.unsplash.com/random/1191*1191/?landscape"	
 	},
 	{
 		artist: "The Fat Rat",
 		name: "Never Be Alone",
 		url: "Musics/Never Be Alone - TheFatRat.m4a",
-		picture: "https://raw.githubusercontent.com/musicplayer0/images/master/img/2.png"	
+		picture: "https://source.unsplash.com/random/1191*1191/?landscape"	
 	},
 	{
 		artist: "The Fat Rat",
 		name: "Time Lapse",
 		url: "Musics/Time Lapse - TheFatRat.m4a",
-		picture: "https://raw.githubusercontent.com/musicplayer0/images/master/img/2.png"	
+		picture: "https://source.unsplash.com/random/1191*1191/?landscape"	
 	},
 	{
 		artist: "The Fat Rat",
 		name: "The Calling",
 		url: "Musics/The Calling - TheFatRat_ Laura Brehm.m4a",
-		picture: "https://raw.githubusercontent.com/musicplayer0/images/master/img/2.png"	
+		picture: "https://source.unsplash.com/random/1191*1191/?landscape"	
 	},
 	{
 		artist: "The Fat Rat",
 		name: "Monody",
 		url: "Musics/Monody - TheFatRat_ Laura Brehm.m4a",
-		picture: "https://raw.githubusercontent.com/musicplayer0/images/master/img/2.png"	
+		picture: "https://source.unsplash.com/random/1191*1191/?landscape"	
 	},
 	];
 	function shuffle(a) {
